@@ -1,0 +1,1 @@
+touch-create a fileto insert somme txt inside a file-echoadd file to a stageing area-git addto clear the area-clearto see the status of the file-git statusto commit a file to stageing area-git commit
